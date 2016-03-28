@@ -1,3 +1,3 @@
-# maksim-shabanski.github.io
+## portfolio
 
-My portfolio can be seen [here] (https://maksim-shabanski.github.io/)
+[https://maksim-shabanski.github.io/] (https://maksim-shabanski.github.io/)
